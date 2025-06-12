@@ -10,14 +10,15 @@ git clone https://github.com/Lisky-pixel/Widget_Presentation.git
 cd Widget_Presentation
 ```
 
-## 🎯 Widget Properties Demonstrated
-1. duration: Controls how long the animation lasts.
-2. transitionBuilder: Lets you define how widgets transition in/out.
-3. switchInCurve: Controls the curve used when a new child appears.
+## Widget Properties Demonstrated
+- duration: Controls how long the animation lasts.
+- transitionBuilder: Lets you define how widgets transition in/out.
+- switchInCurve: Controls the curve used when a new child appears.
 
 ## Screenshot
-![screenshot](FirstIcon.jpg)
-![screenshot](FirstIcon.jpg)
+<img src="FirstIcon.jpg" width="200" alt="first Screenshot" />
+<img src="SecondIcon.jpg" width="200" alt="first Screenshot" />
+
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
