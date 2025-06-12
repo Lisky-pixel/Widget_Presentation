@@ -16,9 +16,7 @@ cd Widget_Presentation
 - switchInCurve: Controls the curve used when a new child appears.
 
 ## Screenshot
-<img src="FirstIcon.jpg" width="200" alt="first Screenshot" />
-<img src="SecondIcon.jpg" width="200" alt="first Screenshot" />
-
+<img src="FirstIcon.jpg" width="200" alt="first Screenshot" /> <img src="SecondIcon.jpg" width="200" alt="first Screenshot" />
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
